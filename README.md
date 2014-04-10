@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bash it
 
 **Bash it** is a mash up of my own bash commands and scripts, other bash stuff I have found.
@@ -58,3 +59,9 @@ Thanks, and happing bashing!
 * [List of contributors][contribute]
 
 [contribute]: https://github.com/revans/bash-it/contributors
+=======
+mailtester_dotfiles
+===================
+
+mailtester_dotfiles
+>>>>>>> 38f95f39227dce9511fdd5478961744202db95e6
